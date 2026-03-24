@@ -21,7 +21,7 @@ Your data is stored securely in Google Firebase (Firestore) with strict access c
 - Google Gemini AI (invoice scanning)
 
 ## 5. Data Deletion
-To request deletion of your data, contact us at: [TWÓJ EMAIL]
+To request deletion of your data, contact us at: gorynski.gary@gmail.com
 
 ## 6. Contact
 gorynski.gary@gmail.com
