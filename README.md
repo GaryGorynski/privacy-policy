@@ -1,6 +1,6 @@
-# Privacy Policy — Beauty Expenses
+# Privacy Policy — Beautify
 
-Last updated: March 24, 2026
+Last updated: April 24, 2026
 
 ## 1. Data We Collect
 We collect the following data to provide our services:
